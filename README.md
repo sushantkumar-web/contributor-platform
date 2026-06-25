@@ -61,19 +61,19 @@ The Contributor Management Platform is a centralized system designed for writers
 
 ### Login
 
-![Login](screenshots/01-login.png)
+![Login](screenshots/01-login-page.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/02-dashboard.png)
+![Dashboard](screenshots/02-user-dashboard.png)
 
 ### Article Editor
 
-![Editor](screenshots/03-article-editor.png)
+![Editor](screenshots/03-user-editor-page-1.png)
 
 ### Article Editor (Extended View)
 
-![Editor Scroll](screenshots/04-article-editor-scroll.png)
+![Editor Scroll](screenshots/04-user-editor-page-1-scroll.png)
 
 ### Learning Home
 
