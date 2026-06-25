@@ -1,42 +1,49 @@
 # Contributor Management Platform
 
-A production-ready contributor management platform built to streamline the complete editorial workflow—from article assignment to publishing.
+A production-ready contributor platform built to streamline content creation, editorial review, and learning workflows.
 
 ---
 
 ## Overview
 
-The platform was designed to manage writers, editors, and administrators in a single centralized system. It simplifies content production through structured workflows, secure authentication, and role-based access control.
+The Contributor Management Platform is a centralized system designed for writers, editors, and administrators. It combines authentication, content creation, learning resources, rewards, and leaderboards into a unified experience.
 
 ---
 
-## Key Features
+## Core Features
 
 ### Authentication
 
-* Secure login system
+* Secure login
 * Session management
-* Role-based permissions
+* Role-based access control
 
 ### Writer Dashboard
 
-* Assigned articles
-* Draft management
+* Personalized dashboard
+* Progress tracking
+* Assigned tasks
+* Activity overview
+
+### Content Editor
+
 * Rich text editor
-* Autosave support
-
-### Editorial Workflow
-
-* Article assignment
-* Review process
-* Feedback & revisions
+* Auto-save
+* Draft management
 * Publishing workflow
 
-### Administration
+### Learning Center
 
-* Contributor management
-* Editorial controls
-* Content moderation
+* Learning dashboard
+* Course/content pages
+* Structured learning experience
+
+### Rewards & Gamification
+
+* Rewards section
+* Progress tracking
+* Leaderboard
+* Contributor engagement
 
 ---
 
@@ -60,31 +67,39 @@ The platform was designed to manage writers, editors, and administrators in a si
 
 ![Dashboard](screenshots/02-dashboard.png)
 
-### Editor
+### Article Editor
 
-![Editor](screenshots/03-editor.png)
+![Editor](screenshots/03-article-editor.png)
 
----
+### Article Editor (Extended View)
 
-## Architecture
+![Editor Scroll](screenshots/04-article-editor-scroll.png)
 
-```
-Browser
-      ↓
-Authentication
-      ↓
-PHP Backend
-      ↓
-MySQL
-      ↓
-Article Workflow
-```
+### Learning Home
+
+![Learning Home](screenshots/05-learning-home.png)
+
+### Learning Page
+
+![Learning Page](screenshots/06-learning-page.png)
+
+### Rewards
+
+![Rewards](screenshots/07-rewards.png)
+
+### Rewards (Detailed View)
+
+![Rewards Scroll](screenshots/08-rewards-scroll.png)
+
+### Leaderboard
+
+![Leaderboard](screenshots/09-leaderboard.png)
 
 ---
 
 ## Status
 
-Production-ready system built for real-world content management.
+Production-ready platform built for real-world content operations and contributor management.
 
 ---
 
